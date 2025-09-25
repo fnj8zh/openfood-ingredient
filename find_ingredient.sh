@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 set -euo pipefail
 INGREDIENT=""; DATA_DIR=""; CSV=""
 usage() {
